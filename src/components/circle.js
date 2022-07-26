@@ -3,7 +3,7 @@
 var Shape= require("./shape");
 
 // declare class
-
+// test comment
 class Circle extends Shape{
     constructor() { super(); this.calculateArea=()=> {} }
 };
